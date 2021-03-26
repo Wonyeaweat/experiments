@@ -1,0 +1,7 @@
+program example2;
+var  A, B, C:integer;
+begin
+  A:=1; B:=0; C:=1;
+  if x < 100 or x > 200 and x <> y then
+     C := 1
+end.

@@ -1,0 +1,17 @@
+program example1;
+var tot,sum,len:integer;
+    vis,flag,ok:bool;
+    dp:integer;
+    chr:char;
+    this_is_a_very_long_variable_name:integer;
+    A,B,C,X,Y:integer;
+begin
+  A := (3+2)*5;
+  A := 3+2*5;
+  C:=2*(7+8*9/10-5);
+  A:=B*C+37;
+  A:=42+B*C;
+  X:=1;
+  chr := this_is_a_very_long_variable_name;
+  undefined := 233
+end.
